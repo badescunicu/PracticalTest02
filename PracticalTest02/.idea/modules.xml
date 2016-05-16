@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/PracticalTest02.iml" filepath="$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/PracticalTest02.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/app/app.iml" filepath="$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/app/app.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/jsoup-1.9.1/jsoup-1.9.1.iml" filepath="$USER_HOME$/Documents/facultate/an4/sem2/eim/PracticalTest02/androidstudio/PracticalTest02/jsoup-1.9.1/jsoup-1.9.1.iml" />
+    </modules>
+  </component>
+</project>
